@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Change Scrap.tf Background Color
+// @name         Scrap.tf Dark Theme
 // @namespace    http://oddball.tf/
-// @version      1.0
-// @description  Changes the scrap.tf background color
+// @version      1.1
+// @description  Makes scrap.tf dark
 // @author       The Oddball
 // @include      /^http?://.*\.?scrap\.tf/.*$/
 // @include      /^https?://.*\.?scrap\.tf/.*$/
